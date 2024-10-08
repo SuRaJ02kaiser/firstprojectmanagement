@@ -24,19 +24,19 @@ This process ensures organized progress tracking, timely task completion, and co
 
 ## Linking Issues to Milestones:
 ### Bug Report: Contact Form Not Submitting Properly:
-### Why Linked this bug to the Milestone:
+#### Why Linked this bug to the Milestone:
 
 The contact form is a crucial element of the portfolio’s Contact Page, which is one of the core components in the initial version milestone. Without a functional form, users cannot reach out, which impacts the usability and professionalism of the portfolio.
 
-### Contribution to Milestone:
+#### Contribution to Milestone:
 This issue directly impacts the functionality of one of the major sections (Contact Page) that needs to be completed for the milestone. Resolving the bug moves us closer to delivering a fully functional portfolio.
 
-## Task: Write Descriptions for Projects in the Portfolio Section:
+### Task: Write Descriptions for Projects in the Portfolio Section:
 
-### Why Linked this documentation to the Milestone:
+#### Why Linked this documentation to the Milestone:
 Project descriptions are essential to the Projects Section, which is one of the most important parts of the portfolio. These descriptions showcase your work, the technologies you've mastered, and the problem-solving skills you have, providing crucial context to potential employers or collaborators.
 
-### Contribution to Milestone:
+#### Contribution to Milestone:
 By completing this task, the Projects Section will be finalized with content that meets the milestone requirements. It ensures that the key information about your work is presented clearly, which is necessary for the portfolio's initial launch.
 
 ## Reflection on Project Management Tools:
